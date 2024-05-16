@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  display: flex;
+  padding: 0 10px;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='960' preserveAspectRatio='none' viewBox='0 0 1440 960'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1163%26quot%3b)' fill='none'%3e%3crect width='1440' height='960' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3crect width='444' height='444' clip-path='url(%26quot%3b%23SvgjsClipPath1164%26quot%3b)' x='131.21' y='436.27' fill='url(%26quot%3b%23SvgjsPattern1165%26quot%3b)' transform='rotate(182.04%2c 353.21%2c 658.27)'%3e%3c/rect%3e%3cpath d='M1035.28 327.5L1027.49 337.66 1015.86 332.29 1008.07 342.45 996.44 337.08 988.65 347.24 977.03 341.87M1033.36 319.73L1025.57 329.89 1013.95 324.52 1006.15 334.68 994.53 329.31 986.74 339.47 975.11 334.1' stroke='%23037b0b' stroke-width='2.98' stroke-dasharray='2%2c 2'%3e%3c/path%3e%3crect width='125.72' height='125.72' clip-path='url(%26quot%3b%23SvgjsClipPath1166%26quot%3b)' x='963.81' y='56.47' fill='url(%26quot%3b%23SvgjsPattern1167%26quot%3b)' transform='rotate(14.37%2c 1026.67%2c 119.33)'%3e%3c/rect%3e%3cpath d='M662.59 877.86L660.41 865.24 672.24 860.35 670.06 847.73 681.89 842.83 679.71 830.21 691.54 825.31' stroke='%23e73635' stroke-width='1' stroke-dasharray='4%2c 4'%3e%3c/path%3e%3crect width='572.6' height='572.6' clip-path='url(%26quot%3b%23SvgjsClipPath1168%26quot%3b)' x='1105.6' y='-96.24' fill='url(%26quot%3b%23SvgjsPattern1169%26quot%3b)' transform='rotate(20.03%2c 1391.9%2c 190.06)'%3e%3c/rect%3e%3crect width='552' height='552' clip-path='url(%26quot%3b%23SvgjsClipPath1170%26quot%3b)' x='-269.11' y='414.79' fill='url(%26quot%3b%23SvgjsPattern1171%26quot%3b)' transform='rotate(210.25%2c 6.89%2c 690.79)'%3e%3c/rect%3e%3cpath d='M114.69 539.03a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM123.69 525.8a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM132.69 512.57a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM141.69 499.35a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM109.92 574.49a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM118.92 561.26a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM127.92 548.03a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM136.92 534.8a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM105.14 609.95a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM114.14 596.72a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM123.14 583.49a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26zM132.14 570.26a5.6 5.6 0 1 0 6.3-9.26 5.6 5.6 0 1 0-6.3 9.26z' stroke='%23037b0b' stroke-width='1'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1163'%3e%3crect width='1440' height='960' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpattern x='0' y='0' width='6' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1165'%3e%3cpath d='M3 1L3 5M1 3L5 3' stroke='%23037b0b' fill='none' stroke-width='1'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1164'%3e%3ccircle r='111' cx='353.21' cy='658.27'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='8.98' height='8.98' patternUnits='userSpaceOnUse' id='SvgjsPattern1167'%3e%3cpath d='M4.49 1L4.49 7.98M1 4.49L7.98 4.49' stroke='%23d3b714' fill='none' stroke-width='3.06'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1166'%3e%3ccircle r='31.43' cx='1026.67' cy='119.33'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='8.18' height='8.18' patternUnits='userSpaceOnUse' id='SvgjsPattern1169'%3e%3cpath d='M4.09 1L4.09 7.18M1 4.09L7.18 4.09' stroke='%23e73635' fill='none' stroke-width='2.15'%3e%3c/path%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1168'%3e%3ccircle r='143.15' cx='1391.9' cy='190.06'%3e%3c/circle%3e%3c/clipPath%3e%3cpattern x='0' y='0' width='552' height='6' patternUnits='userSpaceOnUse' id='SvgjsPattern1171'%3e%3crect width='552' height='3' x='0' y='0' fill='%23037b0b'%3e%3c/rect%3e%3crect width='552' height='3' x='0' y='3' fill='rgba(0%2c 0%2c 0%2c 0)'%3e%3c/rect%3e%3c/pattern%3e%3cclipPath id='SvgjsClipPath1170'%3e%3ccircle r='138' cx='6.89' cy='690.79'%3e%3c/circle%3e%3c/clipPath%3e%3c/defs%3e%3c/svg%3e");
+}
+.wrapper{
+  height: 265px;
+  max-width: 410px;
+  background: #fff;
+  border-radius: 7px;
+  padding: 20px 25px 0;
+  transition: height 0.2s ease;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+.wrapper.active{
+  height: 530px;
+}
+header h1{
+  font-size: 21px;
+  font-weight: 500;
+}
+header p{
+  margin-top: 5px;
+  color: #575757;
+  font-size: 16px;
+}
+.wrapper .form{
+  margin: 20px 0 25px;
+}
+.form :where(input, button){
+  width: 100%;
+  height: 55px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  transition: 0.1s ease;
+}
+.form input{
+  font-size: 18px;
+  padding: 0 17px;
+  border: 1px solid #999;
+}
+.form input:focus{
+  box-shadow: 0 3px 6px rgba(0,0,0,0.13);
+}
+.form input::placeholder{
+  color: #999;
+}
+.form button{
+  color: #fff;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 17px;
+  background: #3498DB;
+}
+.qr-code{
+  opacity: 0;
+  display: flex;
+  padding: 33px 0;
+  border-radius: 5px;
+  align-items: center;
+  pointer-events: none;
+  justify-content: center;
+  border: 1px solid #ccc;
+}
+.wrapper.active .qr-code{
+  opacity: 1;
+  pointer-events: auto;
+  transition: opacity 0.5s 0.05s ease;
+}
+.qr-code img{
+  width: 170px;
+}
+
+@media (max-width: 430px){
+    
+  .wrapper{
+    height: 255px;
+    padding: 16px 20px;
+  }
+  .wrapper.active{
+    height: 510px;
+  }
+  header p{
+    color: #696969;
+  }
+  .form :where(input, button){
+    height: 52px;
+  }
+  .qr-code img{
+    width: 160px;
+  }  
+}
